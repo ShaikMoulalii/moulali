@@ -4,7 +4,9 @@
             System.out.println("He is walking on road");
         }
         public void cooking(){
-            System.out.println("I will cook biriyani very well*");
+
+		System.out.println("I will cook biriyani very well*");
+		System.out.println("testing for git ");
         }
     }
 
